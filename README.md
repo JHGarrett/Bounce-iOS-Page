@@ -1,4 +1,4 @@
-# Bounce-iOS-Page
+# Eclipse-iOS-Page
 
 ## About
 
