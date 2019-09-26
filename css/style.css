@@ -71,3 +71,33 @@ h3{
 	padding-right: 20px;
 	color:#161616;
 }
+
+.footer button {
+	background: #fff;
+	color: #fc3232;
+	height: 60px;
+	padding: 10px;
+	width:80%;
+	border-radius: 80px 80px 80px 80px;
+	-moz-border-radius: 80px 80px 80px 80px;
+	-webkit-border-radius: 80px 80px 80px 80px;
+	margin-top:5%;
+	border:none;
+}
+
+.footer button:hover {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+	background: #000;
+	color: #fff;
+
+}
+
+.footerbrand {
+
+	background: #181818;
+	padding: 40px;
+}
+
+.logofooter {
+	width: 100%;
+}
