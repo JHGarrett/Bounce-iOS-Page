@@ -28,3 +28,17 @@ html,body{
 {
 	margin: auto;
 }
+
+h3{
+	color: #633991;
+	font-size: 55px;
+	font-weight: 500;
+}
+
+.gallery {
+	padding-top: 50px;
+	padding-bottom:  50px;
+	padding-left: 20px;
+	padding-right: 20px;
+	color:#161616;
+}
