@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+html,body{
+	margin:0;
+	font-family: 'Muli', sans-serif;
+	position: relative;
+	height: 100%;
+}
+
+.headerbg {
+	background-image: url('../img/bg.png');
+	background-size: cover;
+	color:#FFF;
+	padding: 5%;
+	height: 100%;
+}
+
+.logo {
+	width: 40%;
+	margin-top:30%;
+}
