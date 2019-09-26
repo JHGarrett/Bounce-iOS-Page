@@ -1,6 +1,6 @@
 # Eclipse-iOS-Page
 
-## About
+## Aboutapple.png
 
 A Simple Webpage for my upcoming iOS app. More to come shortly...
 
